@@ -1,2 +1,4 @@
 # -flex-ai-assistant
-🤖  FLEX — Your Personal AI Assistant that Listens, Understands, and Responds in Real-Time. Built with ❤️ using Python, OpenAI, and Custom Automation.
+Meet FLEX, your personal AI Assistant powered by Python!  
+It listens, thinks, speaks, automates tasks, searches in real-time, and even generates images.
+
