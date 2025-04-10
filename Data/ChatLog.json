@@ -1,0 +1,218 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're referencing the popular song \"Hello\" by Adele, which was released on October 23, 2015, as the lead single from her third studio album. Would you like to know more about the song or Adele's album?"
+    },
+    {
+        "role": "user",
+        "content": "what is the stock prize of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the stock price of Apple (AAPL) is:\n\nClosing Price: 223.83\nDay's Open: 219.79\nIntraday High: 224.12\nIntraday Low: 219.79\n\nAdditionally, as per the other sources, the current stock price of Apple Inc. (AAPL) is around 223.88. Please note that stock prices can fluctuate rapidly, and this information might not reflect the current price. For the most up-to-date information, I recommend checking a reliable financial website or app."
+    },
+    {
+        "role": "user",
+        "content": "stock prize of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the current stock price of Apple Inc. (AAPL) is:\n\nOpen: 223.88\nPrevious Close: 229.72\nHigh: 223.73\nLow: 220.61\n\nPlease note that stock prices can fluctuate rapidly, and this information might not reflect the current price. For the most up-to-date information, I recommend checking a reliable financial website or app."
+    },
+    {
+        "role": "user",
+        "content": "who is toni stark"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, Tony Stark, not Toni Stark, is a fictional character primarily portrayed by Robert Downey Jr. in the Marvel Cinematic Universe (MCU) media franchise. He is commonly known by his alias, Iron Man. Tony Stark is the wealthy son of industrialist and weapons manufacturer Howard Stark and his wife, Maria. He grew up as a genius with a brilliant mind for engineering and technology."
+    },
+    {
+        "role": "user",
+        "content": "stock value of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the stock value of Apple Inc. (AAPL) is:\n\nClosing Price: 223.83\nDay's Open: 219.79\nIntraday High: 224.12\nIntraday Low: 219.79\n\nAdditionally, as per the other sources, the current stock value of Apple Inc. (AAPL) is around 223.88. Please note that stock prices can fluctuate rapidly, and this information might not reflect the current price. For the most up-to-date information, I recommend checking a reliable financial website or app."
+    },
+    {
+        "role": "user",
+        "content": "stock prise of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the stock price of Tata Motors Ltd is:\n\nOpen: 764.15\nPrevious Close: 760.75\nUC Limit: 836.80\nLC Limit: 684.70\nVolume: 3,956,101\nVWAP: 749.39\nMkt Cap (Rs. Cr.): 274,317\n\nPlease note that stock prices can fluctuate rapidly, and this information might not reflect the current price. For the most up-to-date information, I recommend checking a reliable financial website or app."
+    },
+    {
+        "role": "user",
+        "content": "stock prise of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the stock price of Apple Inc. (AAPL) is:\n\nClosing Price: 223.83\nDay's Open: 219.79\nIntraday High: 224.12\nIntraday Low: 219.79\n\nAdditionally, as per the other sources, the current stock price of Apple Inc. (AAPL) is around 224.13. Please note that stock prices can fluctuate rapidly, and this information might not reflect the current price. For the most up-to-date information, I recommend checking a reliable financial website or app."
+    },
+    {
+        "role": "user",
+        "content": "stock price of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the stock price of Tata Motors Ltd is:\n\nRs 743.55 (NSE)\nRs 743.55 (BSE)\n\nPlease note that stock prices can fluctuate rapidly, and this information might not reflect the current price. For the most up-to-date information, I recommend checking a reliable financial website or app."
+    },
+    {
+        "role": "user",
+        "content": "stock price of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the stock price of Tata Motors Ltd is:\n\nOpen: 764.15\nPrevious Close: 760.75\nUC Limit: 836.80\nLC Limit: 684.70\nVolume: 3,956,101\nVWAP: 749.39\nMkt Cap (Rs. Cr.): 274,317"
+    },
+    {
+        "role": "user",
+        "content": "stock price of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the stock price of Tata Motors Ltd is:\n\nRs 743.55 (NSE)\nRs 743.55 (BSE)\n\nAs of January 23, 2025, the current stock price of Tata Motors Ltd is Rs 743.55 on both NSE and BSE."
+    },
+    {
+        "role": "user",
+        "content": "python -u \"c:\\Users\\ujjaw\\OneDrive\\Desktop\\JARVIS\\Backend\\TextToSpeech.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script named `TextToSpeech.py` located in the directory `C:\\Users\\ujjaw\\OneDrive\\Desktop\\JARVIS\\Backend` using the command `python -u`.\n\nThe `-u` option is used to force the stdout buffer to be unbuffered, which can be useful for debugging purposes.\n\nThe script `TextToSpeech.py` is likely a Python program that utilizes a text-to-speech library or module to convert written text into spoken audio.\n\nIf you're experiencing issues with running this script, I'd be happy to help you troubleshoot or provide guidance on how to resolve any errors you might be encountering."
+    },
+    {
+        "role": "user",
+        "content": "Who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, Elon Reeve Musk is a businessman and political figure known for his key roles in the automotive company Tesla, Inc. and the space company SpaceX."
+    },
+    {
+        "role": "user",
+        "content": "When is navratri right?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, Navratri is a nine-day festival that is celebrated twice a year. \n\nThe first Navratri, also known as Chaitra Navratri, typically falls in March or April of the Gregorian calendar. \n\nThe second Navratri, also known as Sharad Navratri, typically falls in September or October of the Gregorian calendar.\n\nSpecifically, the dates for Navratri in the coming years are:\n\n* Navratri 2024: September 26, 2024, to October 12, 2024\n* Navratri 2025: September 22, 2025, to October 2, 2025\n\nPlease note that the exact dates may vary slightly from year to year due to the lunar cycle."
+    },
+    {
+        "role": "user",
+        "content": "I am sorry."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're apologizing for something. Don't worry, we all make mistakes, and apologizing is a big step in making things right.\n\nBy the way, I noticed that \"I Am Sorry\" is also the title of a song from the 1993 Bollywood movie Sangram, starring Ajay Devgn and Karishma Kapoor. The song is sung by Mukul Agarwal and Alka Yagnik."
+    },
+    {
+        "role": "user",
+        "content": "What is the weather in kolkata?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current weather in Kolkata is:\n\n* Hourly Weather:\n\t+ 1 PM: 78\u00b0, 0% chance of rain\n\t+ 2 PM: 80\u00b0, 0% chance of rain\n\t+ 3 PM: 83\u00b0, 0% chance of rain\n\t+ 4 PM: 82\u00b0, 0% chance of rain\n\t+ 5 PM: 80\u00b0, 0% chance of rain\n\t+ 6 PM: 78\u00b0, 0% chance of rain\n* Extended Forecast:\n\t+ Sunny with a feels-like temperature of 82\u00b0F and humidity of 50%\n* Past 24 Hours Weather Data:\n\t+ Maximum Temperature: 27.0\u00b0C\n\t+ Minimum Temperature: 18.0\u00b0C\n\t+ Weather: Moderate Fog\n* Hour-by-Hour Forecast:\n\t+ 16:30: Sunny, 26\u00b0C\n\t+ 17:30: Clear Sky, 24\u00b0C\n\t+ 18:30: Clear Sky, 24\u00b0C\n\nPlease note that weather conditions can change rapidly, and this information might not reflect the current weather. For the most up-to-date information, I recommend checking a reliable weather website or app."
+    },
+    {
+        "role": "user",
+        "content": "What is the weather of kolkata?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current weather in Kolkata is:\n\n* Fog/mist in the morning and mainly clear sky later\n* Minimum Temperature: 18.0\u00b0C\n* Maximum Temperature: 26.0\u00b0C\n\nPlease note that weather conditions can change rapidly, and this information might not reflect the current weather. For the most up-to-date information, I recommend checking a reliable weather website or app."
+    },
+    {
+        "role": "user",
+        "content": "I want to go from kolkata victoria memorial to mayapur iskcon."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, here are the ways to travel from Kolkata Victoria Memorial to Mayapur ISKCON:\n\n1. By Train:\nYou can take a train from Kolkata to Mayapur. The journey takes around 2 hours and 51 minutes. You can take a vehicle from Mayapur to Victoria Memorial via Krishngr Cty Jn, Ranaghat Jn, Dum Dum, Dum Dum, and Rabindra Sadan.\n\n2. By Bus:\nYou can take a bus from Kolkata to Mayapur ISKCON. The minimum bus ticket price from Kolkata to Mayapur ISKCON is INR 108. You can avail exclusive offers, deals, and discounts and get the cheapest bus tickets.\n\n3. Alternative Route:\nAnother way to reach Mayapur from Esplanade is to take the subway and train and line 03115 train and taxi, which takes around 2 hours and 54 minutes and costs \u20b9650 - \u20b92,200.\n\nPlease note that the travel times and prices may vary depending on the mode of transport, time of day, and other factors. I recommend checking with the transportation providers or a reliable travel website for the most up-to-date information."
+    },
+    {
+        "role": "user",
+        "content": "What is the weather in new delhi?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current weather in New Delhi is:\n\n* Current Weather: Hazy sunshine\n* Temperature: 73\u00b0F (22.78\u00b0C)\n* RealFeel: 70\u00b0F (21.11\u00b0C)\n* Humidity: 63%\n* Pleasant weather with a temperature range of 63\u00b0F to 81\u00b0F (17\u00b0C to 27\u00b0C)\n\nPlease note that weather conditions can change rapidly, and this information might not reflect the current weather. For the most up-to-date information, I recommend checking a reliable weather website or app."
+    },
+    {
+        "role": "user",
+        "content": "Can you tell me what is the stock price of tata motors?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the stock price of Tata Motors Ltd is:\n\nOpen: 764.15\nPrevious Close: 760.75\nUC Limit: 836.80\nLC Limit: 684.70\nVolume: 3,956,101\nVWAP: 749.39\nMkt Cap (Rs. Cr.): 274,317\n\nPlease note that stock prices can fluctuate rapidly, and this information might not reflect the current price. For the most up-to-date information, I recommend checking a reliable financial website or app."
+    },
+    {
+        "role": "user",
+        "content": "Current weather in los angeles."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current weather in Los Angeles is:\n\n* Morning: 71\u00b0F (21.67\u00b0C)\n* Afternoon: 77\u00b0F (25\u00b0C)\n* Evening: 58\u00b0F (14.44\u00b0C)\n* Overnight: 50\u00b0F (10\u00b0C)\n* Chance of Rain: 0%\n\nPlease note that weather conditions can change rapidly, and this information might not reflect the current weather. For the most up-to-date information, I recommend checking a reliable weather website or app."
+    },
+    {
+        "role": "user",
+        "content": "What is the weather in kolkata?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current weather in Kolkata is:\n\n* Fog/mist in the morning and mainly clear sky later\n* Minimum Temperature: 18.0\u00b0C\n* Maximum Temperature: 26.0\u00b0C\n\nPlease note that weather conditions can change rapidly, and this information might not reflect the current weather. For the most up-to-date information, I recommend checking a reliable weather website or app."
+    },
+    {
+        "role": "user",
+        "content": "What is the stock price of tata?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the stock price of Tata Motors Ltd is:\n\nRs 733.9\n\nPlease note that stock prices can fluctuate rapidly, and this information might not reflect the current price. For the most up-to-date information, I recommend checking a reliable financial website or app."
+    },
+    {
+        "role": "user",
+        "content": "Elon musk is saying tell me."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, Elon Musk is known for asking a specific question during job interviews, which is:\n\n\"Tell me about some of the most difficult problems you worked on and how you solved them?\"\n\nThis question helps him identify the candidate's problem-solving skills and ability to work under pressure."
+    },
+    {
+        "role": "user",
+        "content": "Sonu sharma."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, Sonu Sharma is an Indian motivational speaker, corporate trainer, and life coach. He is the founder of Dynamic India Group and has inspired millions of people through his speeches and training programs."
+    },
+    {
+        "role": "user",
+        "content": "Who is the prime minister?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current Prime Minister of India is Shri Narendra Modi."
+    },
+    {
+        "role": "user",
+        "content": "Pawan singh's new song."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, Pawan Singh's new song is \"Aaho Raja\" from the album \"Aaho Raja\" released on November 28, 2024, on the Wave Music YouTube channel."
+    },
+    {
+        "role": "user",
+        "content": "What is the weather of sasaram now?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current weather in Sasaram is:\n\n* Current Weather: Clear\n* Temperature: 48\u00b0F (8.89\u00b0C)\n* RealFeel: 45\u00b0F (7.22\u00b0C)\n* Humidity: 37%\n\nPlease note that weather conditions can change rapidly, and this information might not reflect the current weather. For the most up-to-date information, I recommend checking a reliable weather website or app."
+    }
+]
