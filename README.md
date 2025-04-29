@@ -20,6 +20,6 @@ It listens, thinks, speaks, automates tasks, searches in real-time, and even gen
 ## How to Run 
 1. Clone the repo
 2. Install the requirements: `pip install -r requirements.txt`
-3. Setup your `.env` file with your username and assistant name
+3. Setup your `.env` file with your username and assistant name.
 4. Run the main script:
 
